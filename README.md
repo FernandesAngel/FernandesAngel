@@ -6,4 +6,5 @@
 - 💬 Ask me about Javascript, ReactJS, React Native, Typescript, HTML, CSS.
 - 😄 Pronouns: She/Her
 
-<img src="https://github-readme-stats.vercel.app/api?username=fernandesangel&theme=dracula&show_icons=true">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=fernandesangel&theme=dracula&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandesangel&layout=compact&theme=dracula">
